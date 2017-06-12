@@ -11,7 +11,7 @@ $(document).ready(function() {
 
     var newWork = new IncompleteWork(newItem, false);
 
-    $("ul#display").append("<li><span class='item'>" + newWork.task() + "</span></li>");
+    $("ul#display").append("<li><span id=\'"+ newWork.task + "\'>" + newWork.task + "</span></li>");
 
     $(".item").click(function() {
       $("#display").hide();
