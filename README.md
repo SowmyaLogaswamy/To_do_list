@@ -16,11 +16,11 @@ _A to do list_
 
 3. Our app will save form's data into a variable - DONE
 
-4. User can add multiple entries
+4. User can add multiple entries - DONE
 
-5. Our program will save multiple entries
+5. Our program will save multiple entries -DONE
 
-6. Our program will display all saved entries
+6. Our program will display all saved entries - DONE
 
 7. User has the option of deleting an item
 
