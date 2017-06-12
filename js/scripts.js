@@ -25,9 +25,4 @@ $(document).ready(function() {
       $(".checkbox input:checked").parent().remove();
     });
   });
-  // for (var i=0; i<=itemsArray.length; i++;) {
-  //   $(itemsArray[i]).click(function() {
-  //   $(itemsArray[i]).hide();
-  // }
-  // });
 });

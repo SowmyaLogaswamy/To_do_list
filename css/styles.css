@@ -1,7 +1,28 @@
+h1 {
+  font-size: 5em;
+}
+
+body {
+  background-image: url("../img/background.jpeg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: white;
+}
+
 .headertwo {
   display: none;
 }
 
 #displaycheckboxform {
   display: none;
+}
+
+#new-item {
+  width: 400px;
+}
+
+
+br {
+  display: block;
+  margin: 50px 0;
 }
